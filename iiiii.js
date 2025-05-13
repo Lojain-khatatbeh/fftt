@@ -1,6 +1,6 @@
 function calculateSum(numbers) {
-sum = 0;
-for (j = 0; j < numbers.length; j++) {
+let = sum = 0;
+for (let j = 0; j < numbers.length; j++) {
 sum += numbers[j];
 }
 return sum;
